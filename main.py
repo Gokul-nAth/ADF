@@ -1,3 +1,3 @@
-import prime_numbers
+import csv_to_dic
 if(__name__ == '__main__'):
     print()
