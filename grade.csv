@@ -1,6 +1,6 @@
-Name,Campus,Dept,Grade,Result,,,,,,,,,Series_title_5
-Aakash,SKCET,IT,A,Pass,,,,,,,,,
-Gokul,SKCET,IT,A,Pass,,,,,,,,,
-Bala,SKCT,CSE,C,Fail,,,,,,,,,
-Viki,SKCET,MECH,B,Pass,,,,,,,,,
-Naren,SKCT,CSE,D,Fail,,,,,,,,,
+Name,Campus,Dept,Grade,Result
+Aakash,SKCET,IT,A,Pass
+Gokul,SKCET,IT,A,Pass
+Bala,SKCT,CSE,C,Fail
+Viki,SKCET,MECH,B,Pass
+Naren,SKCT,CSE,D,Fail
