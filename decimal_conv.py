@@ -25,7 +25,7 @@ def dec_to_Hex(temp):
         temp=int(temp/16)
     return hex
 try:
-    num=int(input('Enter the deciaml number : '))
+    num=int(input('Enter the decimal number : '))
     if(num<1):
         raise ValueError
     print('Decimal -> Binary : '+dec_to_Bin(num))
