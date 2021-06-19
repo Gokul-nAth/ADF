@@ -1,3 +1,3 @@
-import ascii
+import gcd
 if(__name__ == '__main__'):
     print()
