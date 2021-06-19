@@ -1,9 +1,11 @@
 a=[]
 b=[]
 try:
-    outputFile=open("to.txt","w")
+    out=input('Enter the destination file name : ')
+    outputFile=open(out,"a")
     try:
-        inputFile=open("from.txt","r").read().split(' ')
+        inp=input('Enter the source file name : ')
+        inputFile=open(inp,"r").read().split(' ')
         for word in inputFile:
             ans=''
             for c in word:
@@ -27,6 +29,6 @@ try:
         print('File transfer executed successfully')
         outputFile.close()
     except IOError:
-        print('Unable to open source file')
+        print('Unable to open source('+inp+') file')
 except IOError:
-    print('Unable to open destination file')
+    print('Unable to open destination('+out+') file')
