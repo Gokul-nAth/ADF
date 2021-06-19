@@ -1,1 +1,1 @@
-print(chr(int(input('Enter the number : '))))
+print('ASCII value is :',ord(input('Enter the character : ')))

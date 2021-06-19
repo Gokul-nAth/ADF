@@ -1,3 +1,3 @@
-import application
+import ascii
 if(__name__ == '__main__'):
     print()
