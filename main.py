@@ -1,3 +1,3 @@
-import csv_to_dic
+import gcd
 if(__name__ == '__main__'):
     print()
