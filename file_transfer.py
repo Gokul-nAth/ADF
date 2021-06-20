@@ -7,18 +7,12 @@ try:
         inp=input('Enter the source file name : ')
         inputFile=open(inp,"r").read().split(' ')
         for word in inputFile:
-            ans=''
-            for c in word:
-                if(c!='\n'):
-                    count=0
-                    for v in word:
-                        if(c==v):
-                            count+=1
-                    if(count==1):
-                        ans=ans+c
-            a.append(len(ans))
-            ans=ans+str(len(ans))
-            b.append(ans)
+            if(inputFile.count(word)>1):
+                continue
+            else:
+                a.append(len(word))
+                word=word+str(len(word))
+                b.append(word)
         a.sort()
         for w in a:
             for x in b:

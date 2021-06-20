@@ -1,11 +1,8 @@
 def dec_to_Bin(temp):
     ans=''
-    while (temp != 0):
-        if (temp % 2 == 0):
-            ans='0'+ans
-        else:
-            ans='1'+ans
-        temp = int(temp / 2)
+    while (temp!=0):
+        ans=str(temp%2)+ans
+        temp=int(temp/2)
     return ans
 
 def dec_to_Oct(temp):
