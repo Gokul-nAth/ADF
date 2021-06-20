@@ -21,5 +21,10 @@
             
    Hexa decimal:  
             Declare a resultant string with no value(hex).Append the resultant string(hex) to the string value of n%16 when (n%16) is lesser than 10,otherwise append the resultant string(hex) to the string value of (n%16)+55 and divide n by 16,until n=0.Return the resultant string as hexa decimal value of that decimal number.
-
+            
+       6.Program to Find ASCII Value of Character.
+   Print the ASCII value of given character using ord() method,which return the equivalent integer value for a character.
+   
+      7.Program to get an application (name , age , gender, salary, state, city)
+   Get the number of employees whose details are need to be added as input.Collect all the mentioned details as input.Create a class with constructor to add details and printDetails() method to show the given details as output.Create one object for each employee and store the values as instance variable.Call the printDetails() method with required object to get the details of a particular employee.
       
