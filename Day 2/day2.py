@@ -3,8 +3,8 @@ import re
 from collections import Counter
 
 try:
-    iFile=sys.argv[1]
-    #iFile='day 2.txt'
+    #iFile=sys.argv[1]
+    iFile='day2.txt'
     inputFileList=open(iFile,'r').read().split(' ')
     if(len(inputFileList)!=0):
         to=0
