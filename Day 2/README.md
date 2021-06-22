@@ -14,5 +14,13 @@ Get the input file name as command line argument
   
       1.d.Print the palindrome present in the file.
    
-  Compare each word with the reverse form of the word which can be acheived by str[::-1] slicing.Covert to each word to lowercase to avoid case difference.
+  Compare each word with the reverse form of the word which can be achieved by str[::-1] slicing.Covert to each word to lowercase to avoid case difference.
+  
+     1.e.Convert all words into unique list and print in command line
+     
+  Unique list can be achieved by placing the values in dictionary
+  
+     1.f.Create a Word dict with Key as counter index and value as the words present in file and print them on screen.
+     
+  Place every values in a dictionary with maintaining a separate integer for key values.
       
