@@ -1,23 +1,21 @@
-
-
-2021-06-23 16:07:35,247:day3.txt file opened
-2021-06-23 16:07:35,247:Count of words whose preffix "To/to" is determined
-2021-06-23 16:07:35,247:Count of words whose suffix "ing" is determined
-2021-06-23 16:07:35,247:Word(s) with maximum occurance is/are determined
-2021-06-23 16:07:35,247:Palindrome word(s) is/are determined
-2021-06-23 16:07:35,247:Unique list is identified
-2021-06-23 16:07:35,247:Counter index dictionary is identified
-2021-06-23 16:07:35,247:file1.txt file opened
-2021-06-23 16:07:35,247:Writing splited words based on vowels in a new file is completed
-2021-06-23 16:07:35,247:file1.txt file closed
-2021-06-23 16:07:35,247:file2.txt file opened
-2021-06-23 16:07:35,247:Converting the third letter of each word and write it in a new file is completed
-2021-06-23 16:07:35,247:file2.txt file closed
-2021-06-23 16:07:35,247:file3.txt file opened
-2021-06-23 16:07:35,247:Converting the fourth word of file and write it in a new file is completed
-2021-06-23 16:07:35,247:file3.txt file closed
-2021-06-23 16:07:35,247:file4.txt file opened
-2021-06-23 16:07:35,247:Converting the " " to "-" is done and write it in a new file is completed
-2021-06-23 16:07:35,247:file4.txt file closed
-2021-06-23 16:07:35,247:All operations are done successfully
+2021-06-23 17:15:31,455:day3.txt file opened
+2021-06-23 17:15:31,455:Count of words whose preffix "To/to" is determined
+2021-06-23 17:15:31,455:Count of words whose suffix "ing" is determined
+2021-06-23 17:15:31,455:Word(s) with maximum occurance is/are determined
+2021-06-23 17:15:31,455:Palindrome word(s) is/are determined
+2021-06-23 17:15:31,455:Unique list is identified
+2021-06-23 17:15:31,455:Counter index dictionary is identified
+2021-06-23 17:15:31,455:file1.txt file opened
+2021-06-23 17:15:31,455:Writing splitted words based on vowels in a new file is completed
+2021-06-23 17:15:31,455:file1.txt file closed
+2021-06-23 17:15:31,455:file2.txt file opened
+2021-06-23 17:15:31,455:Converting the third letter of each word and write it in a new file is completed
+2021-06-23 17:15:31,470:file2.txt file closed
+2021-06-23 17:15:31,470:file3.txt file opened
+2021-06-23 17:15:31,470:Converting the fourth word of file and write it in a new file is completed
+2021-06-23 17:15:31,470:file3.txt file closed
+2021-06-23 17:15:31,470:file4.txt file opened
+2021-06-23 17:15:31,470:Converting the " " to "-" is done and write it in a new file is completed
+2021-06-23 17:15:31,470:file4.txt file closed
+2021-06-23 17:15:31,470:All operations are done successfully
 
