@@ -1,3 +1,3 @@
-import day2
+import gcd
 if(__name__ == '__main__'):
     print()
