@@ -147,7 +147,7 @@ if(len(inputList)!=0):
                     continue
             o.write(' ')
         if(i==0):
-            logging.debug('Writing splited words based on vowels in a new file is completed')
+            logging.debug('Writing splitted words based on vowels in a new file is completed')
         elif(i==1):
             logging.debug('Converting the third letter of each word and write it in a new file is completed')
         elif(i==2):
