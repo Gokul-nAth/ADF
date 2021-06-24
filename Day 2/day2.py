@@ -5,8 +5,8 @@ from collections import Counter
 
 
 try:
-    IFILE=sys.argv[1]
-    #IFILE='day2.txt'
+    #IFILE=sys.argv[1]
+    IFILE='day2.txt'
     iFileList=open(IFILE,'r').read().split(' ')
     inputFileList=[]
     for word in iFileList:
